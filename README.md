@@ -1,6 +1,6 @@
 # MIRI_all_configs
  
-This repository contains a notebook intended to compile a list of all possible configurations of MIRI and then check for a refence file for each configuration in CRDS. 
+This repository contains a notebook intended to compile a list of all possible configurations of MIRI and then check for a refence file for each configuration in CRDS in order to address https://jira.stsci.edu/browse/JWSTMIRI-200
 
 The possible configurations are informed by https://innerspace.stsci.edu/pages/viewpage.action?spaceKey=JWST&title=MIRI+Allowed+Configurations
 
