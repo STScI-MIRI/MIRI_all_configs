@@ -6,4 +6,4 @@ The possible configurations are informed by https://innerspace.stsci.edu/pages/v
 
 Each section uses for-loops to generate a list of possible configurations for that mode and append them to a master pandas dataframe. These sections need to be updated manually for any changes to the list of possible configurations.
 
-The list is then queried against CRDS using `crds.getrecommendations()`
+The list is then queried against CRDS using `crds.getrecommendations()` and the output is sorted into '.txt' files by filter type.
