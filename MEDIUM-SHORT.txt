@@ -1,0 +1,32 @@
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_MRS
+READPATT: FAST
+BAND: MEDIUM-SHORT
+CHANNEL: 12
+DETECTOR: MIRIFUSHORT
+SUBARRAY: FULL
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+straymask: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_MRS
+READPATT: SLOW
+BAND: MEDIUM-SHORT
+CHANNEL: 12
+DETECTOR: MIRIFUSHORT
+SUBARRAY: FULL
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+straymask: NOT FOUND No match found.
+-------------------------------------
+

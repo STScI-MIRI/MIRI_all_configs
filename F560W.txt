@@ -1,0 +1,90 @@
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_IMAGE
+READPATT: FASTGRPAVG
+FILTER: F560W
+SUBARRAY: BRIGHTSKY
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+readnoise: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_IMAGE
+READPATT: FASTGRPAVG
+FILTER: F560W
+SUBARRAY: SUB256
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+readnoise: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_IMAGE
+READPATT: FASTGRPAVG
+FILTER: F560W
+SUBARRAY: SUB128
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+readnoise: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_IMAGE
+READPATT: FASTGRPAVG
+FILTER: F560W
+SUBARRAY: SUB64
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+readnoise: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_TACONFIRM
+READPATT: FAST
+FILTER: F560W
+SUBARRAY: FULL
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+psfmask: NOT FOUND No match found.
+-------------------------------------
+
+-------------------------------------
+Configuration: 
+INSTRUME: MIRI
+EXP_TYPE: MIR_TACONFIRM
+READPATT: FAST
+FILTER: F560W
+SUBARRAY: SLITLESSPRISM
+Detector: MIRIMAGE
+DATE-OBS: 2021-02-08
+TIME-OBS: 0:00:00
+
+Result: 
+psfmask: NOT FOUND No match found.
+-------------------------------------
+
